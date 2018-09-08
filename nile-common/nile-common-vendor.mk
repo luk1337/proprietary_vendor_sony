@@ -864,7 +864,6 @@ PRODUCT_PACKAGES += \
     ims \
     uceShimService \
     CNEService \
-    com.qualcomm.location \
     qcrilmsgtunnel \
     TimeService \
     com.fingerprints.extension
