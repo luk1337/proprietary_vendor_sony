@@ -919,3 +919,6 @@ PRODUCT_PACKAGES += \
     TimeService \
     WfdCommon \
     com.fingerprints.extension
+
+PRODUCT_SOONG_NAMESPACES += \
+    vendor/sony/nile-common
